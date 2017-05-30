@@ -1,4 +1,4 @@
-# Admin-Page-Finder
+# Admin Page Finder
 Site Admin Page Finder with Python Script
 
 Edited By Mr.Hidden
