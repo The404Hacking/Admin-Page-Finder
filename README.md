@@ -1,7 +1,7 @@
 # Admin Page Finder
 Site Admin Page Finder with Python Script
 
-Edited By Mr.Hidden
+Edited By [Sir.4m1R](https://t.me/Sir4m1R)
 
 # Using Script
 Command on Windows Cmd or Linux Terminal:
